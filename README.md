@@ -5,4 +5,5 @@ Daffa Afia Rizfazka, S1 Informatika, Telkom University
 > _WITH GREAT KNOWLEDGES, COMES GREAT OPPORTUNITY_
 
 ## **Website**
-[https://daffaafiar.github.io/WGTIK/]
+[Daffa Afia Website](https://daffaafiar.github.io/WGTIK/).
+
